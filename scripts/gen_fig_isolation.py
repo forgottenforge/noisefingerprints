@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate paper-quality Figure 9: noise source isolation α summary."""
+"""Generate Figure 9: noise source isolation α summary."""
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
@@ -54,3 +54,4 @@ fig.savefig('data/vacuum_telescope_v1/figures/figure_9_isolation.png',
             dpi=300, bbox_inches='tight')
 plt.close(fig)
 print("Saved: data/vacuum_telescope_v1/figures/figure_9_isolation.png")
+

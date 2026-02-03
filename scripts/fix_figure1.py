@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate Figure 1: batch-size susceptibility chi(K) for the PRA paper.
-
-Matches the computation in vacuum_statistics.py:
-  - Observable = Hamming-weight variance (computed within each batch)
-  - chi(K) = |d<O>/dK| where <O> = mean of per-batch observable values
-  - Savitzky-Golay smoothing (window=5, polyorder=3)
-  - kappa from scipy peak_prominences
+"""Regenerate Figure 1: 
 """
 
 import json
@@ -123,3 +117,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

@@ -2,23 +2,8 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  VACUUM TOMOGRAPHY v1.0                                                      ║
-║  "Scharfstellen auf die Choreographie"                                       ║
+║  "Focusing on the choreography"                                       ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  Nicht Statistiken berechnen - die CHOREOGRAPHIE rekonstruieren!             ║
-║                                                                              ║
-║  METHODEN:                                                                   ║
-║  1. SYMBOLIC DYNAMICS    - Signal → Alphabet → Grammatik                     ║
-║  2. RECURRENCE ANALYSIS  - Wann wiederholt sich der Tanz?                    ║
-║  3. PHASE SPACE TOPOLOGY - Form des Attraktors                               ║
-║  4. INFORMATION FLOW     - Transfer Entropy (wer führt, wer folgt?)          ║
-║  5. WAVELET COHERENCE    - Zeit-Frequenz Muster-Evolution                    ║
-║  6. ORDINAL PATTERNS     - Permutationsentropie & Komplexität                ║
-║  7. NETWORK ANALYSIS     - Visibility Graph des Signals                      ║
-║                                                                              ║
-║  HYPOTHESE:                                                                  ║
-║  BIT FROM IT ist in den Daten - aber als STRUKTURÄNDERUNG,                   ║
-║  nicht als Statistik-Änderung. Wir müssen "scharfstellen"!                   ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
@@ -975,4 +960,5 @@ def main():
     print("═"*70)
 
 if __name__ == "__main__":
+
     main()

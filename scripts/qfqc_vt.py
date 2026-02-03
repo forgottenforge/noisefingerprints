@@ -1,32 +1,5 @@
 #!/usr/bin/env python3
 """
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                    QFQC VACUUM TELESCOPE v1.0                                ║
-║                    "Reading the Universe's Memory"                           ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  PARADIGM SHIFT:                                                             ║
-║  We don't ask "Does the vacuum CHANGE during earthquakes?"                   ║
-║  We ask "Does each earthquake have a UNIQUE ADDRESS in vacuum space?"        ║
-║                                                                              ║
-║  WHEELER'S HYPOTHESIS:                                                       ║
-║  "It from Bit" - The universe IS information.                                ║
-║  If true, different geographic events should have distinguishable            ║
-║  signatures in the quantum vacuum.                                           ║
-║                                                                              ║
-║  THIS SCRIPT:                                                                ║
-║  1. Extracts phase-relationship signatures from LIGO data                    ║
-║  2. Builds feature vectors in "vacuum information space"                     ║
-║  3. Tests if earthquakes are DISTINGUISHABLE by their signatures             ║
-║  4. Attempts to DECODE geographic properties from vacuum data                ║
-║                                                                              ║
-║  SUCCESS CRITERION:                                                          ║
-║  If we can classify earthquakes by location/magnitude from their             ║
-║  vacuum signature alone → The vacuum contains geographic information!        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-Author: Arti Cyan (ForgottenForge)
 Version: 1.0 - "The Wheeler Test"
 """
 
@@ -833,4 +806,5 @@ def main():
 """)
 
 if __name__ == "__main__":
+
     main()
